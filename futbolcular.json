@@ -1,7 +1,7 @@
 [ 
     {
          "AdiSoyadi": "Ronaldo",
-         "Ulke": "Brezilya",
+         "Uyruk": "Brezilya",
          "Mevki": "Santrafor",
          "KucukResimURL": "https://raw.githubusercontent.com/erenkucukk/h5200047erenkucuk/main/Ronaldo.png",
          "ResimURL": "https://raw.githubusercontent.com/erenkucukk/h5200047erenkucuk/main/ronaldoArkaPlan.jpg"
@@ -9,7 +9,7 @@
 
      {
          "AdiSoyadi": "Lionel Messi",
-         "Ulke": "Arjantin",
+         "Uyruk": "Arjantin",
          "Mevki": "10 numara",
          "KucukResimURL": "https://raw.githubusercontent.com/erenkucukk/h5200047erenkucuk/main/Messi.png",
          "ResimURL": "https://raw.githubusercontent.com/erenkucukk/h5200047erenkucuk/main/messiArkaPlan.jpg"
@@ -17,7 +17,7 @@
 
      {
          "AdiSoyadi": "Diego Armando Maradona",
-         "Ulke": "Arjantin",
+         "Uyruk": "Arjantin",
          "Mevki": "10 numara",
          "KucukResimURL": "https://raw.githubusercontent.com/erenkucukk/h5200047erenkucuk/main/Maradona.png",
          "ResimURL": "https://raw.githubusercontent.com/erenkucukk/h5200047erenkucuk/main/maradonaArkaPlan.jpg"
@@ -26,7 +26,7 @@
 
      {
          "AdiSoyadi": "Pele",
-         "Ulke": "Brezilya",
+         "Uyruk": "Brezilya",
          "Mevki": "Santrafor",
                 "KucukResimURL": "https://raw.githubusercontent.com/erenkucukk/h5200047erenkucuk/main/Pele.png",
          "ResimURL": "https://raw.githubusercontent.com/erenkucukk/h5200047erenkucuk/main/peleArkaPlan.png"
@@ -34,7 +34,7 @@
 
     {
          "AdiSoyadi": "Cristiano Ronaldo",
-         "Ulke": "Portekiz",
+         "Uyruk": "Portekiz",
          "Mevki": "Santrafor",
          "KucukResimURL": "https://raw.githubusercontent.com/erenkucukk/h5200047erenkucuk/main/CRonaldo.png",
          "ResimURL": "https://raw.githubusercontent.com/erenkucukk/h5200047erenkucuk/main/cRonaldoArkaPlan.jpg"
@@ -42,21 +42,21 @@
 
     {
          "AdiSoyadi": "Zinedine Zidane",
-         "Ulke": "Fransa",
+         "Uyruk": "Fransa",
          "Mevki": "10 numara",
          "KucukResimURL": "https://raw.githubusercontent.com/erenkucukk/h5200047erenkucuk/main/Zidane.png",
          "ResimURL": "https://raw.githubusercontent.com/erenkucukk/h5200047erenkucuk/main/zidaneArkaPlan.jpg"
      },
      {
          "AdiSoyadi": "Johan Cruyff",
-         "Ulke": "Hollanda",
+         "Uyruk": "Hollanda",
          "Mevki": "10 numara",
          "KucukResimURL": "https://raw.githubusercontent.com/erenkucukk/h5200047erenkucuk/main/Cruyff.png",
          "ResimURL": "https://raw.githubusercontent.com/erenkucukk/h5200047erenkucuk/main/cruyffArkaPlan.jpg"   
      },
      {
          "AdiSoyadi": "Ronaldinho",
-         "Ulke": "Brezilya",
+         "Uyruk": "Brezilya",
          "Mevki": "10 numara",
          "KucukResimURL": "https://raw.githubusercontent.com/erenkucukk/h5200047erenkucuk/main/Ronaldinho.png",
          "ResimURL": "https://raw.githubusercontent.com/erenkucukk/h5200047erenkucuk/main/ronaldinhoArkaPlan.jpg"
